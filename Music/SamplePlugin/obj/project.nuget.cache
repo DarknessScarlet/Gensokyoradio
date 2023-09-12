@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMmLkMOBOhLgqIqU1IKeq7/wpitcnyXQLqGiFzhcJ0LsdUbzlMKZg23tNWv3LcZqtdN7zHqBQ1mBIS0a+tbtjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flandre\\Desktop\\Music\\SamplePlugin\\SamplePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flandre\\.nuget\\packages\\dalamudpackager\\2.1.10\\dalamudpackager.2.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
